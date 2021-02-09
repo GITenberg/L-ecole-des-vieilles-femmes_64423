@@ -1,5 +1,8 @@
 _repo: L-ecole-des-vieilles-femmes_64423
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64423-h/images/cover.jpg
 creator:
   author:
     agent_name: Lorrain, Jean
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean_Lorrain
     - https://fr.wikipedia.org/wiki/Jean_Lorrain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64423#L-ecole-des-vieilles-femmes
 gutenberg_issued: '2021-01-31'
 gutenberg_type: Text
 identifiers:
